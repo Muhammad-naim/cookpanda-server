@@ -3,7 +3,7 @@
       "foodID": "a",
       "name": "Biriyani",
       "foodImageURL": "https://images.deliveryhero.io/image/fd-bd/LH/s2hm-hero.jpg",
-      "description": "A flavorful rice dish with layers of spiced meat and potatoes.",
+      "description": "Biriyani is a flavorful rice dish that's made with layers of spiced meat and potatoes. The dish is known for its fragrant aroma and bold flavors. It's a popular dish in South Asian cuisine and is often served during special occasions or celebrations.",
       "ingredients": [
         "Basmati rice",
         "Chicken or beef",
@@ -22,7 +22,7 @@
       "foodID": "b",
       "name": "Fish curry",
       "foodImageURL": "https://www.mydelicious-recipes.com/home/images/410_1200_1200/mydelicious-recipes-fish-curry",
-      "description": "A spicy and tangy curry made with freshwater fish and served with rice.",
+      "description": "Fish curry is a spicy and tangy curry made with freshwater fish. It's a popular dish in South Asian cuisine and is often served with rice. The fish is cooked in a tangy tomato-based curry with spices and mustard oil to create a flavorful and hearty dish.",
       "ingredients": [
         "Fish",
         "Onions",
@@ -40,7 +40,7 @@
       "foodID": "c",
       "name": "Dal",
       "foodImageURL": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/chana-dal-recipe.jpg",
-      "description": "A comforting lentil soup served with rice and other dishes.",
+      "description": "A comforting lentil soup served with rice and other dishes.Dal is a comforting lentil soup that's served with rice and other dishes. It's a staple dish in South Asian cuisine and is often enjoyed as a main course or a side dish. The lentils are boiled with spices and aromatics until they're tender and creamy.",
       "ingredients": [
         "Lentils",
         "Onions",
@@ -59,7 +59,7 @@
       "foodID": "d",
       "name": "Shorshe ilish",
       "foodImageURL": "https://1.bp.blogspot.com/-fY88DuPtvZg/Wx0jV6TjACI/AAAAAAAAD1M/yx73u--wMwUG8xm4j8IVBR6bbjtkU6KXwCLcBGAs/s1600/PicsArt_06-10-06.37.55%255B1%255D.jpg",
-      "description": "A signature dish of Bangladesh made with the rich and flavorful hilsa fish.",
+      "description": "A signature dish of Bangladesh made with the rich and flavorful hilsa fish. Shorshe ilish is a signature dish of Bangladesh that's made with hilsa fish. The fish is marinated in mustard paste and spices before being fried in mustard oil to create a rich and flavorful dish. It's a popular dish in Bengali cuisine and is often served during special occasions or celebrations.",
       "ingredients": [
         "Hilsa fish",
         "Mustard paste",
@@ -75,7 +75,7 @@
       "foodID": "e",
       "name": "Beef bhuna",
       "foodImageURL": "https://res.cloudinary.com/gagan/image/upload/h_315,w_500,f_auto,q_auto/v1596700567/cfy4mlmvunwxzxeabttz.jpg",
-      "description": "A slow-cooked beef curry with a rich and spicy sauce.",
+      "description": "A slow-cooked beef curry with a rich and spicy sauce.Beef bhuna is a slow-cooked beef curry with a rich and spicy sauce. The beef is cooked with onions, garlic, ginger, tomatoes, chili peppers, spices, and mustard oil until it's tender and flavorful. It's a popular dish in South Asian cuisine and is often enjoyed as a main course with rice.",
       "ingredients": [
         "Beef",
         "Onions",
