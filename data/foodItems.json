@@ -1,0 +1,93 @@
+[
+    {
+      "foodID": "a",
+      "name": "Biriyani",
+      "foodImageURL": "https://images.deliveryhero.io/image/fd-bd/LH/s2hm-hero.jpg",
+      "description": "A flavorful rice dish with layers of spiced meat and potatoes.",
+      "ingredients": [
+        "Basmati rice",
+        "Chicken or beef",
+        "Potatoes",
+        "Onions",
+        "Garlic",
+        "Ginger",
+        "Tomatoes",
+        "Chili peppers",
+        "Spices"
+      ],
+      "cookingMethod": "Layering and cooking the rice and meat with aromatic spices and herbs.",
+      "ratings": 4.5
+    },
+    {
+      "foodID": "b",
+      "name": "Fish curry",
+      "foodImageURL": "https://www.mydelicious-recipes.com/home/images/410_1200_1200/mydelicious-recipes-fish-curry",
+      "description": "A spicy and tangy curry made with freshwater fish and served with rice.",
+      "ingredients": [
+        "Fish",
+        "Onions",
+        "Garlic",
+        "Ginger",
+        "Tomatoes",
+        "Turmeric",
+        "Chili powder",
+        "Mustard oil"
+      ],
+      "cookingMethod": "Cooking the fish in a tangy tomato-based curry with spices and mustard oil.",
+      "ratings": 4.2
+    },
+    {
+      "foodID": "c",
+      "name": "Dal",
+      "foodImageURL": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/chana-dal-recipe.jpg",
+      "description": "A comforting lentil soup served with rice and other dishes.",
+      "ingredients": [
+        "Lentils",
+        "Onions",
+        "Garlic",
+        "Ginger",
+        "Tomatoes",
+        "Turmeric",
+        "Chili powder",
+        "Cumin",
+        "Coriander"
+      ],
+      "cookingMethod": "Boiling the lentils with spices and aromatics until they are tender and creamy.",
+      "ratings": 4.0
+    },
+    {
+      "foodID": "d",
+      "name": "Shorshe ilish",
+      "foodImageURL": "https://1.bp.blogspot.com/-fY88DuPtvZg/Wx0jV6TjACI/AAAAAAAAD1M/yx73u--wMwUG8xm4j8IVBR6bbjtkU6KXwCLcBGAs/s1600/PicsArt_06-10-06.37.55%255B1%255D.jpg",
+      "description": "A signature dish of Bangladesh made with the rich and flavorful hilsa fish.",
+      "ingredients": [
+        "Hilsa fish",
+        "Mustard paste",
+        "Green chilies",
+        "Turmeric",
+        "Salt",
+        "Mustard oil"
+      ],
+      "cookingMethod": "Marinating the fish in mustard paste and spices before frying it in mustard oil.",
+      "ratings": 4.8
+    },
+    {
+      "foodID": "e",
+      "name": "Beef bhuna",
+      "foodImageURL": "https://res.cloudinary.com/gagan/image/upload/h_315,w_500,f_auto,q_auto/v1596700567/cfy4mlmvunwxzxeabttz.jpg",
+      "description": "A slow-cooked beef curry with a rich and spicy sauce.",
+      "ingredients": [
+        "Beef",
+        "Onions",
+        "Garlic",
+        "Ginger",
+        "Tomatoes",
+        "Chili peppers",
+        "Spices",
+        "Mustard oil"
+      ],
+      "cookingMethod": "Slow-cooking the beef with spices and aromatics until it is tender and flavorful.",
+      "ratings": 4.3
+    }
+  ]
+  
