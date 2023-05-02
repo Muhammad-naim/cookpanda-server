@@ -22,7 +22,7 @@ app.get('/items',(req, res) => {
 })
 app.get('/items/:id', (req, res) => {
     const id = req.params.id;
-    const item = itemsData.find(item => item.id == id)
+    const item = itemsData.find(item => item.foodID == id)
     res.send(item)
 })
 
