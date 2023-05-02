@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "chefName": "Ashraful Haque",
+    "chefPhotoURL": "https://chefclubdhakahome.files.wordpress.com/2020/08/img_20200809_19244519702735.jpg",
+    "yearsOfExperience": 10,
+    "likes": 5000,
+    "numOfRecipes": 8,
+    "recipeIds": ["b", "d", "e", "a", "c"]
+  },
+  {
+    "id": 2,
+    "chefName": "Tamim Islam",
+    "chefPhotoURL": "https://i.ibb.co/LrFw2NZ/chef.jpg",
+    "yearsOfExperience": 7,
+    "likes": 3000,
+    "numOfRecipes": 6,
+    "recipeIds": ["d", "a", "c", "e", "b"]
+  },
+  {
+    "id": 3,
+    "chefName": "Muhaiminul Islam",
+    "chefPhotoURL": "https://i.ibb.co/LrFw2NZ/chef.jpg",
+    "yearsOfExperience": 5,
+    "likes": 1500,
+    "numOfRecipes": 3,
+    "recipeIds": ["e", "c", "a", "b", "d"]
+  },
+  {
+    "id": 4,
+    "chefName": "Naim Ahmed",
+    "chefPhotoURL": "https://i.ibb.co/LrFw2NZ/chef.jpg",
+    "yearsOfExperience": 12,
+    "likes": 8000,
+    "numOfRecipes": 5,
+    "recipeIds": ["b", "e", "d", "c", "a"]
+  },
+  {
+    "id": 5,
+    "chefName": "Sakib Khan",
+    "chefPhotoURL": "https://i.ibb.co/LrFw2NZ/chef.jpg",
+    "yearsOfExperience": 15,
+    "likes": 12000,
+    "numOfRecipes": 8,
+    "recipeIds": ["c", "e", "a", "b", "d"]
+  },
+  {
+    "id": 6,
+    "chefName": "Sohel Rana",
+    "chefPhotoURL": "https://i.ibb.co/LrFw2NZ/chef.jpg",
+    "yearsOfExperience": 9,
+    "likes": 4000,
+    "numOfRecipes": 4,
+    "recipeIds": ["a", "b", "e", "c", "d"]
+  },
+  {
+    "id": 7,
+    "chefName": "Rkibul Islam",
+    "chefPhotoURL": "https://i.ibb.co/LrFw2NZ/chef.jpg",
+    "yearsOfExperience": 6,
+    "likes": 2000,
+    "numOfRecipes": 2,
+    "recipeIds": ["b", "e", "d", "c", "a"]
+  },
+  {
+    "id": 8,
+    "chefName": "Jubayer Hasan",
+    "chefPhotoURL": "https://i.ibb.co/LrFw2NZ/chef.jpg",
+    "yearsOfExperience": 8,
+    "likes": 3500,
+    "numOfRecipes": 7,
+    "recipeIds": ["d", "a", "c", "e", "b"]
+  }
+]
