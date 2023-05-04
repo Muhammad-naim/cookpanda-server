@@ -2,17 +2,17 @@
   {
     "id": 1,
     "chefName": "Ashraful Haque",
-    "chefPhotoURL": "https://i.ibb.co/LrFw2NZ/chef.jpg",
+    "chefPhotoURL": "https://i.ibb.co/LgvygML/DALL-E-2023-05-04-19-11-01-bangladeshi-chef.png",
     "bio": "Ashraful Haque is a highly experienced chef who has spent over a decade honing his craft in kitchens around the world. With a passion for using locally sourced ingredients and a focus on sustainability, he has become known for his innovative dishes that blend traditional and modern cooking techniques. When he's not in the kitchen, Ashraful enjoys traveling and discovering new flavors and ingredients to incorporate into his cooking.",
     "yearsOfExperience": 10,
     "likes": 5000,
-    "numOfRecipes": 5,
-    "recipeIds": ["b", "d", "e", "a", "c"]
+    "numOfRecipes": 7,
+    "recipeIds": ["b", "d", "e", "a", "c","f","h"]
   },
   {
     "id": 2,
-    "chefName": "Tamim Islam",
-    "chefPhotoURL": "https://i.ibb.co/LrFw2NZ/chef.jpg",
+    "chefName": "Tamima Islam",
+    "chefPhotoURL": "https://i.ibb.co/TvJBBkZ/DALL-E-2023-05-04-19-11-06-bangladeshi-chef.png",
     "bio": "Tamim Islam is a rising star in the culinary world, known for his inventive and playful approach to cooking. With a background in molecular gastronomy, he loves to experiment with new techniques and ingredients to create surprising and delicious dishes. Tamim is also passionate about teaching and mentoring young chefs, and has launched a successful program to help young people from underserved communities develop their skills and pursue careers in the culinary arts.",
     "yearsOfExperience": 7,
     "likes": 3000,
@@ -32,12 +32,12 @@
   {
     "id": 4,
     "chefName": "Naim Ahmed",
-    "chefPhotoURL": "https://i.ibb.co/LrFw2NZ/chef.jpg",
+    "chefPhotoURL": "https://i.ibb.co/LC3gPgT/DALL-E-2023-05-04-19-11-29-bangladeshi-chef.png",
     "bio": "Naim has been working as a chef for over 12 years. He got his start in a family-owned restaurant and later went on to work at several high-end establishments. Naim is passionate about creating classic dishes with a modern twist. He enjoys experimenting with different cooking techniques and is always striving to improve his skills.",
     "yearsOfExperience": 12,
     "likes": 8000,
-    "numOfRecipes": 5,
-    "recipeIds": ["b", "e", "d", "c", "a"]
+    "numOfRecipes": 9,
+    "recipeIds": ["b", "e", "d", "c", "a", "f", "g", "h", "i"]
   },
   {
     "id": 5,
@@ -46,18 +46,18 @@
     "bio": "Sakib is an experienced chef with over 15 years in the culinary industry. He began his career as a dishwasher and worked his way up to become head chef at a prestigious restaurant. Sakib is a master of flavor and is known for his ability to create complex dishes that are both delicious and visually stunning. He is passionate about using local and seasonal ingredients in his cooking.",
     "yearsOfExperience": 15,
     "likes": 12000,
-    "numOfRecipes": 5,
-    "recipeIds": ["c", "e", "a", "b", "d"]
+    "numOfRecipes": 9,
+    "recipeIds": ["c", "e", "a", "b", "d", "f", "g", "h", "i"]
   },
   {
     "id": 6,
     "chefName": "Sohel Rana",
-    "chefPhotoURL": "https://i.ibb.co/LrFw2NZ/chef.jpg",
+    "chefPhotoURL": "https://i.ibb.co/ZX881d3/DALL-E-2023-05-04-19-11-52-bangladeshi-chef.png",
     "bio": "Sohel has been working in the culinary industry for 9 years. He started his career as a line cook in a busy restaurant and quickly worked his way up to become sous chef. Sohel is passionate about creating simple yet delicious dishes that highlight the natural flavors of the ingredients. He enjoys experimenting with different spices and herbs to create unique flavor combinations.",
     "yearsOfExperience": 9,
     "likes": 4000,
-    "numOfRecipes": 4,
-    "recipeIds": ["a", "b", "e", "d"]
+    "numOfRecipes": 5,
+    "recipeIds": ["a", "b", "e", "d", "i"]
   },
   {
     "id": 7,
@@ -66,13 +66,13 @@
     "bio": "Rkibul is a talented chef who has been working in the industry for 6 years. He began his career as a dishwasher and worked his way up to become a line cook. Rkibul is known for his ability to create dishes that are both flavorful and healthy. He is passionate about using fresh and locally sourced ingredients in his cooking.",
     "yearsOfExperience": 6,
     "likes": 2000,
-    "numOfRecipes": 3,
-    "recipeIds": ["b", "e", "d"]
+    "numOfRecipes": 4,
+    "recipeIds": ["b", "e", "d", "h"]
   },
   {
     "id": 8,
     "chefName": "Jubayer Hasan",
-    "chefPhotoURL": "https://i.ibb.co/LrFw2NZ/chef.jpg",
+    "chefPhotoURL": "https://i.ibb.co/ZX881d3/DALL-E-2023-05-04-19-11-52-bangladeshi-chef.png",
     "bio": " Jubayer has been working as a chef for 8 years. He got his start in a small cafe and later went on to work at several high-end restaurants. Jubayer is known for his ability to create dishes that are both visually stunning and delicious. He enjoys experimenting with different textures and flavors to create unique dishes.",
     "yearsOfExperience": 8,
     "likes": 3500,
