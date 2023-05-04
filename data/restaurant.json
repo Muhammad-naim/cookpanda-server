@@ -1,0 +1,87 @@
+[
+    {
+      "name": "Hotel saladia",
+      "coordinates": {
+        "latitude": 23.746466,
+        "longitude": 90.376015
+      }
+    },
+    {
+      "name": "Project Hilsa",
+      "coordinates": {
+        "latitude": 23.797911,
+        "longitude": 90.414391
+      }
+    },
+    {
+      "name": "Cattle Restrurant",
+      "coordinates": {
+        "latitude": 23.744084,
+        "longitude": 90.369504
+      }
+    },
+    {
+      "name": "Bangla Bhoj",
+      "coordinates": {
+        "latitude": 23.749844,
+        "longitude": 90.380398
+      }
+    },
+    {
+      "name": "Jatiyo Restrurant",
+      "coordinates": {
+        "latitude": 23.810331,
+        "longitude": 90.408865
+      }
+    },
+    {
+      "name": "Abloom Restrurant",
+      "coordinates": {
+        "latitude": 22.356915,
+        "longitude": 91.788982
+      }
+    },
+    {
+      "name": "Srimangal Cafe",
+      "coordinates": {
+        "latitude": 24.900412,
+        "longitude": 91.872909
+      }
+    },
+    {
+      "name": "Sundarbans Restrurant",
+      "coordinates": {
+        "latitude": 22.845644,
+        "longitude": 89.540329
+      }
+    },
+    {
+      "name": "Dhaka Restrurant",
+      "coordinates": {
+        "latitude": 23.710394,
+        "longitude": 90.410081
+      }
+    },
+    {
+      "name": "Mejjan Haile Aiyun",
+      "coordinates": {
+        "latitude": 22.340243,
+        "longitude": 91.837238
+      }
+    },
+    {
+      "name": "Hazi Biriyani",
+      "coordinates": {
+        "latitude": 24.372653,
+        "longitude": 88.604576
+      }
+    },
+    {
+      "name": "Sultan's dine",
+      "coordinates": {
+        "latitude": 22.492364,
+        "longitude": 91.956237
+      }
+    }
+  ]
+  

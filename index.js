@@ -4,7 +4,7 @@ const app = express()
 const port = 5000
 const chefData = require('./data/chefs.json')
 const itemsData = require('./data/foodItems.json')
-const restaurant = require('./data/restaurants.json')
+const restaurant = require('./data/restaurant.json')
 
 app.use(cors())
 
@@ -26,6 +26,9 @@ app.get('/items/:id', (req, res) => {
     const id = req.params.id;
     const item = itemsData.find(item => item.foodID == id)
     res.send(item)
+})
+app.get('/restaurants', (req, res) => {
+    res.send(restaurant)
 })
 app.listen(port, () => {
     console.log(`port is running on port ${port}`);
